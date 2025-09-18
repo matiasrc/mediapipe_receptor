@@ -39,4 +39,4 @@ El visualizador es compatible con los datos enviados por los modelos Face, Hands
 
 5. Ejecuta el sketch en Processing. Deberías ver los puntos detectados dibujados en la ventana.
 
-Este receptor fue desarrollado para ser compatible con el emisor de MediaPipe creado por ** *Matías Romero Costas***.
+Este receptor fue desarrollado para ser compatible con el emisor de MediaPipe creado por ***Matías Romero Costas***.
