@@ -14,9 +14,9 @@ El visualizador es compatible con los datos enviados por los modelos Face, Hands
 * **Robustez:** Incluye verificaciones de formato de mensaje para evitar errores si los datos llegan de forma inesperada.
 
 ## Requisitos
-1. Processing: Tener instalado el entorno de desarrollo de Processing (versión 3 o 4).
+1. **Processing:** Tener instalado el entorno de desarrollo de Processing (versión 3 o 4).
 
-2. Librería oscP5: Es necesario instalar la librería `oscP5` desde el gestor de contribuciones de [Processing](www.processing.org).
+2. **Librería oscP5:** Es necesario instalar la librería `oscP5` desde el gestor de contribuciones de [Processing](www.processing.org).
 
 * Abre Processing.
 
@@ -24,7 +24,7 @@ El visualizador es compatible con los datos enviados por los modelos Face, Hands
 
 * Busca "oscP5" e instálala.
 
-3. Emisor OSC: La aplicación [MediaPipe Tracker OSC](https://github.com/matiasrc/mediapipe-tracker-osc) debe estar ejecutándose y enviando datos a la IP y puerto correctos.
+3. **Emisor OSC:** La aplicación [MediaPipe Tracker OSC](https://github.com/matiasrc/mediapipe-tracker-osc) debe estar ejecutándose y enviando datos a la IP y puerto correctos.
 
 
 ## ¿Cómo Usarlo?
