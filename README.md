@@ -16,7 +16,7 @@ El visualizador es compatible con los datos enviados por los modelos Face, Hands
 ## Requisitos
 1. **Processing:** Tener instalado el entorno de desarrollo de Processing (versión 3 o 4).
 
-2. **Librería oscP5:** Es necesario instalar la librería `oscP5` desde el gestor de contribuciones de [Processing](www.processing.org).
+2. **Librería oscP5:** Es necesario instalar la librería `oscP5` desde el gestor de contribuciones de [Processing](https://processing.org/).
 
 * Abre Processing.
 
@@ -39,4 +39,4 @@ El visualizador es compatible con los datos enviados por los modelos Face, Hands
 
 5. Ejecuta el sketch en Processing. Deberías ver los puntos detectados dibujados en la ventana.
 
-Este receptor fue desarrollado para ser compatible con el emisor de MediaPipe creado por *Matías Romero Costas*.
+Este receptor fue desarrollado para ser compatible con el emisor de MediaPipe creado por ** *Matías Romero Costas***.
